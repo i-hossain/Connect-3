@@ -1,4 +1,4 @@
-package com.ismail.connect3;
+package com.ismail.TicTacConnect;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

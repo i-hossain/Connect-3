@@ -1,4 +1,4 @@
-package com.ismail.connect3;
+package com.ismail.TicTacConnect;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
