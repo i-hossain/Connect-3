@@ -135,7 +135,8 @@
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
         android:id="@+id/winnerLayout"
-        android:visibility="invisible">
+        android:visibility="invisible"
+        android:alpha="0.5">
 
         <TextView
             android:layout_width="match_parent"
